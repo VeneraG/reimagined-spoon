@@ -1,0 +1,19 @@
+.gray {
+    color: gray;
+}
+
+.blue {
+    color: navy;
+}
+
+body {
+    padding-left: 45px
+}
+
+body {
+    font-family: sans-serif;
+}
+
+p {
+    margin: 5px;
+}

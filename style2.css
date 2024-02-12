@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif
+}
+
+h2 {
+    padding-left: 40px;
+}
+
+.uncheckted_1 {
+    list-style-image: url('icons/unchecked_16.png');
+    background-color: lightsteelblue;
+    list-style-position: inside;
+    padding: 10px 40px;
+    width: 700px;
+}
+
+.uncheckted_2 {
+    list-style-image: url('icons/unchecked_16.png');
+    background-color: lightblue;
+    list-style-position: inside;
+    padding: 10px 40px;
+    width: 700px;
+}
+
+.done {
+    list-style-image: url('icons/checked_16.png');
+    background-color: gainsboro;
+    list-style-position: inside;
+    padding: 10px 40px;
+    width: 700px;
+}
+
+.done span {
+    text-decoration-line: line-through;
+}
+
+span {
+    padding: 12px
+}

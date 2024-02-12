@@ -1,0 +1,23 @@
+ol {
+    background-color: thistle;
+    list-style-position: inside;
+    color: white;
+    padding: 20px;
+    width: 700px
+}
+
+li {
+    background-color: plum;
+    margin: 5px;
+    padding: 7px;
+}
+
+span {
+    background-color: purple;
+    padding: 7px 15px;
+}
+
+li::before {
+    content: " ";
+    padding-right: 4px;
+}
